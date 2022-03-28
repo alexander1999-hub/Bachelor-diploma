@@ -1,2 +1,2 @@
-# Bachelor-diploma
-This repo contains Jupyter notebooks which I used in my bachelor diploma
+# Bachelor-diploma                                                     
+This repo contains Jupyter notebooks which I used in my bachelor diploma. Unfortunately, data used in my diploma is private, so only code is available.
